@@ -38,8 +38,8 @@ for (let membro of membri) {
   output.innerHTML +=
   `
   <div class="col">
-        <div class="card" style="width: 18rem;">
-          <img src="/assets/img/${membro.pic}" class="card-img-top" alt="${membro.nome}">
+        <div class="card my-4 rounded-0 border-0 ">
+          <img src="/assets/img/${membro.pic}" class="card-img-top rounded-0 " alt="${membro.nome}">
           <div class="card-body text-center ">
             <h5 class="card-name">Wayne Barnett</h5>
             <p class="card-role">Founder & CEO</p>
