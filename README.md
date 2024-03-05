@@ -25,4 +25,7 @@ Scott Estrada	Developer				scott-estrada-developer.jpg
 Barbara Ramos	Graphic Designer		barbara-ramos-graphic-designer.jpg
 
 ## Step da seguire
-1. 
+1. creo array di 6 oggetti (membri del team)
+2. ogni oggetto ha 3 proprietà: nome, ruolo e foto
+3. con un ciclo for of, ciclo i membri
+4. ad ogni ciclo stampo le proprietà degli oggetti con template literal
